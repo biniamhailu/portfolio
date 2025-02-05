@@ -84,14 +84,14 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt",
     },
 
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react",
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node",
-    },
+    // {
+    //   skillName: "reactjs",
+    //   fontAwesomeClassname: "fab fa-react",
+    // },
+    // {
+    //   skillName: "nodejs",
+    //   fontAwesomeClassname: "fab fa-node",
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm",
@@ -180,7 +180,7 @@ const workExperiences = {
       // ]
     },
     {
-      role: "Software Engineer Intern",
+      role: "Software Engineering Intern",
       company: "Techfinity Solutions",
       companylogo: require("./assets/images/techfinityLogo.png"),
       date: "May 2024 – Aug 2024",
