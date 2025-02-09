@@ -309,9 +309,9 @@ const resumeSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me"),
   subtitle: "Discuss an oppotunity or just want to say hi?",
-  number: "+1-206-990-4007",
+  // number: "+1-206-990-4007",
   email_address: "gbina27@gmail.com",
 };
 
