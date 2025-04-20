@@ -180,7 +180,7 @@ const workExperiences = {
       // ]
     },
     {
-      role: "Software Engineering Intern",
+      role: "Software Developer Intern",
       company: "Techfinity Solutions",
       companylogo: require("./assets/images/techfinityLogo.png"),
       date: "May 2024 – Aug 2024",
